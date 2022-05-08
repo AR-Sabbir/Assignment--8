@@ -25,7 +25,7 @@ const gpaCal=(marks)=>{
     return gpa;
 
 }
-console.log(gpaCal(student.bn));
+// console.log(gpaCal(student.bn));
 
 
 const gradeCal=(marks)=>{
